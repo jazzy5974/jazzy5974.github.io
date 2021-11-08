@@ -6,10 +6,10 @@ body {
 ul.navBar {
     list-style-type: none;
     padding: 10px;
-    
+
 }
 
-ul.navBar li {
+ul.navBar li.active {
     margin: 0 2px 0 2px;
     background-color: dodgerblue;
 }
