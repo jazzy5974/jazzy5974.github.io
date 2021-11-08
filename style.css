@@ -9,7 +9,6 @@ ul.navBar {
 
 }
 
-ul.navBar li.active {
+ul.navBar li {
     margin: 0 2px 0 2px;
-    background-color: dodgerblue;
 }
