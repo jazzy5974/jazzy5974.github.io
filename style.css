@@ -12,3 +12,8 @@ ul.navBar {
 ul.navBar li {
     margin: 0 2px 0 2px;
 }
+
+ul.navBar li:hover {
+    background-color: grey;
+    color: black;
+}
