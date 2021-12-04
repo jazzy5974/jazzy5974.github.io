@@ -26,9 +26,28 @@ body {
     margin-top: -15px;
 }
 
+.backButton {
+    font-size: 1.2rem;
+    font-family: 'Consolas';
+    font-weight: bold;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.backButton:hover {
+    font-size: 1.2rem;
+    font-family: 'Consolas';
+    font-weight: bold;
+    opacity: 1;
+}
+
 h1 {
     color: black;
     font-size: 2em;
+}
+
+a {
+    text-decoration: none;
 }
 
 .navBar {
