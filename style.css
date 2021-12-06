@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500&display=swap'); /* Readex Pro Font */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Readex+Pro:wght@500&display=swap'); /* Inconsolata Font */
+
 body {
     background-color: whitesmoke;
-    font-family: 'Segoe UI';
+    font-family: 'Readex Pro';
     font-size: 14px;
     overflow: hidden;
 }
@@ -20,7 +23,7 @@ body {
   
 .desc {
     font-size: 1.2rem;
-    font-family: 'Consolas';
+    font-family: 'Inconsolata';
     font-weight: 400;
     color: #7b8290;
     margin-top: -15px;
@@ -28,7 +31,7 @@ body {
 
 .backButton {
     font-size: 1.2rem;
-    font-family: 'Consolas';
+    font-family: 'Inconsolata';
     font-weight: bold;
     opacity: 0.6;
     transition: 0.3s;
@@ -36,7 +39,7 @@ body {
 
 .backButton:hover {
     font-size: 1.2rem;
-    font-family: 'Consolas';
+    font-family: 'Inconsolata';
     font-weight: bold;
     opacity: 1;
 }
