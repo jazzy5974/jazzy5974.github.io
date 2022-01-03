@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Lato&display=swap'); /* Exo 2 */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Lato&family=Source+Sans+Pro&display=swap'); /* Source Sans Pro */
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Readex+Pro:wght@500&display=swap'); /* Inconsolata Font */
 
 body {
     background-color: whitesmoke;
-    font-family: 'Exo 2';
+    font-family: 'Source Sans Pro';
     font-size: 14px;
     overflow: hidden;
 }
